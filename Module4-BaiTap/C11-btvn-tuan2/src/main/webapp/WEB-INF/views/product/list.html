@@ -3,8 +3,10 @@
 <head th:replace="/layout::head"></head>
 <body>
 <h1>Danh sách sản phẩm</h1>
-<a th:href="@{/products/create}">Tạo mới sản phẩm</a>
-<a th:href="@{/categories/}">Danh sách danh mục sản phẩm</a>
+<table><a th:href="@{/products/create}">Tạo mới sản phẩm</a>
+</table>
+<table><a th:href="@{/categories/}">Danh sách danh mục sản phẩm</a>
+</table>
 <form th:action="@{/products/}" method="get">
     <input type="text" name="q" placeholder="Search">
     <button>Search</button>

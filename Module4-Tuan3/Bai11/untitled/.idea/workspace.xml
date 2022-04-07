@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a6ced62-22be-4f62-a8a1-40f655b83b6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/controller/ProductRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/model/ProductForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/webapp/WEB-INF/views/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/bt-gio-hang/src/main/webapp/WEB-INF/views/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/controller/ShoppingCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/model/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/webapp/WEB-INF/views/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/webapp/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai10/spring-shopping-cart/src/main/webapp/WEB-INF/views/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/model/BlogForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/repository/IBlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/java/com/codegym/service/IBlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/resources/upload-file.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/webapp/WEB-INF/views/blog/craete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/webapp/WEB-INF/views/blog/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/webapp/WEB-INF/views/blog/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/webapp/WEB-INF/views/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog-new/src/main/webapp/WEB-INF/views/error-404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/java/com/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/bt-forrm-dang-ki/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/java/com/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/java/com/codegym/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/java/com/codegym/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/java/com/codegym/model/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/resources/validation-message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bai8/customer-phone-validate/src/main/webapp/WEB-INF/views/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/model/ProductForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/classes/java/main/com/codegym/model/ProductForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/libs/C11-btvn-tuan2-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/libs/C11-btvn-tuan2-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/model/ProductForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/java/com/codegym/model/ProductForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/product/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/product/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module4-BaiTap/C11-btvn-tuan2/src/main/webapp/WEB-INF/views/product/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/build/classes/java/main/com/codegym/cms/configuration/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/build/classes/java/main/com/codegym/cms/configuration/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/build/classes/java/main/com/codegym/cms/repository/ICustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/build/classes/java/main/com/codegym/cms/repository/ICustomerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/build/libs/spring-customer-management-restful-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/build/libs/spring-customer-management-restful-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/src/main/java/com/codegym/cms/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/src/main/java/com/codegym/cms/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-customer-management-restful/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-customer-management-restful/src/main/java/com/codegym/cms/repository/ICustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/classes/java/main/com/codegym/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/classes/java/main/com/codegym/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/libs/spring-validate-infor-user-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/libs/spring-validate-infor-user-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/src/main/java/com/codegym/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai8/spring-validate-infor-user/src/main/java/com/codegym/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Webservice-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Webservice-1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="27Ja7iVaC1rDfaAAwabyfMkRYF3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6ced62-22be-4f62-a8a1-40f655b83b6e" name="Changes" comment="" />
+      <created>1649040478842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649040478842</updated>
+      <workItem from="1649040481439" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

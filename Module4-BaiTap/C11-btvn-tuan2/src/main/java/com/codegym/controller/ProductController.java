@@ -12,6 +12,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.FileCopyUtils;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.ModelAndView;
@@ -36,7 +37,7 @@ public class ProductController {
     }
 
     @GetMapping("/products")
-    public ModelAndView showAllProduct (@RequestParam(name = "q") Optional<String> q, @PageableDefault(value =10) Pageable pageable){
+    public ModelAndView showAllProduct (@RequestParam(name = "q") Optional<String> q, @PageableDefault(value = 10) Pageable pageable){
         Page<Product> products;
         ModelAndView modelAndView = new ModelAndView("/product/list");
         if (q.isPresent()){
@@ -57,7 +58,10 @@ public class ProductController {
         return modelAndView;
     }
     @PostMapping("/products/create")
-    public ModelAndView createProduct (@ModelAttribute ProductForm productForm){
+    public ModelAndView createProduct (@ModelAttribute ProductForm productForm, BindingResult bindingResult){
+        if (bindingResult.hasErrors()) {//Trả về true nếu dữ liệu người dùng nhập vào không hợp lệ
+            return new ModelAndView("/product/create");
+        }
         String fileName = productForm.getImage().getOriginalFilename();
         long currentTime = System.currentTimeMillis();
         fileName = currentTime+fileName;
